@@ -46,7 +46,6 @@ function Veg() {
     <>
       <h1>This are Veg Items</h1>
       <ol>{listItems}</ol>
-      <h1>This is Running</h1>
     </>
   );
 }
